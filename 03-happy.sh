@@ -21,5 +21,5 @@ read response
 if [ "$response" = "no" ]; then
    echo "No, today is not the weekend"
 else
-   echo "Yes, today is the weekend!"
+   echo "Yes, today is the weekend?"
 fi
